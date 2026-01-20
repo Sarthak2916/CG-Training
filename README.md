@@ -14,4 +14,4 @@
 15-1-26 - Solved Java class and object problems.<br>
 16-1-26 - Solved Java constructors problems.<br>
 18-1-26 - Solved some problems on this,static,final,instanceof operator.<br>
-19-1-26 - Solved problems on inheritance.
+20-1-26 - Solved problems on inheritance.
