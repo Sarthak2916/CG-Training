@@ -24,4 +24,5 @@
 30-1-26 - Solved some problems on linear, binary search, String buffer and builder and filereader.<br>
 31-1-26 - Solved some problems on sorting algorithms.<br>
 1-2-26 - Solved problems on java collections.<br>
-2-2-26 - Solved some DSA problems on edabit platform.
+2-2-26 - Solved some DSA problems on edabit platform.<br>
+3-2-26 - Solved some problems on tree, graph and linkedlist.
