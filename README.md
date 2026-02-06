@@ -27,4 +27,5 @@
 2-2-26 - Solved some DSA problems on edabit platform.<br>
 3-2-26 - Solved some problems on tree, graph and linkedlist.<br>
 4-2-26 - Solved problems on Java IO Stream.<br>
-5-2-26 - Solved some problems on Java Generics.
+5-2-26 - Solved some problems on Java Generics.<br>
+6-2-26 - Solved problems on exception handling.
