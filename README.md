@@ -28,4 +28,5 @@
 3-2-26 - Solved some problems on tree, graph and linkedlist.<br>
 4-2-26 - Solved problems on Java IO Stream.<br>
 5-2-26 - Solved some problems on Java Generics.<br>
-6-2-26 - Solved problems on exception handling.
+6-2-26 - Solved problems on exception handling.<br>
+7-2-26 - Solved problems on Java Regex.
