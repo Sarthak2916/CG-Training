@@ -33,4 +33,5 @@
 8-2-26 - Solved problems on JUnit Testing.<br>
 9-2-26 - Solved some problems on opencsv Java.<br>
 10-2-26 - Solved some problems on Edabit platform.<br>
-11-2-26 - Solved some problems on Java annotations,Reflection.
+11-2-26 - Solved some problems on Java annotations,Reflection.<br>
+12-2-26 - Learned Json handling in java. 
