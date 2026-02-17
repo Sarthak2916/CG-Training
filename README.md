@@ -36,4 +36,5 @@
 11-2-26 - Solved some problems on Java annotations,Reflection.<br>
 12-2-26 - Learned Json handling in java.<br>
 13-2-26 - Solved problems on Lambda Expression and Method Reference.<br>
-16-2-26 - Solved some fundamental problems on hackerrank. 
+16-2-26 - Solved some fundamental problems on hackerrank.<br>
+17-2-26 - Learned about SOLID Design Principles using Java. 
