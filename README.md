@@ -38,4 +38,5 @@
 13-2-26 - Solved problems on Lambda Expression and Method Reference.<br>
 16-2-26 - Solved some fundamental problems on hackerrank.<br>
 17-2-26 - Learned about SOLID Design Principles using Java.<br>
-18-2-26 - Learned Singleton, Factory Design Patterns and ISP, DIP SOLID principles.
+18-2-26 - Learned Singleton, Factory Design Patterns and ISP, DIP SOLID principles.<br>
+19-2-26 - Learned Abstract Factory, Observer Design Pattern.
