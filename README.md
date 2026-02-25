@@ -40,4 +40,5 @@
 17-2-26 - Learned about SOLID Design Principles using Java.<br>
 18-2-26 - Learned Singleton, Factory Design Patterns and ISP, DIP SOLID principles.<br>
 19-2-26 - Learned Abstract Factory, Observer Design Pattern.<br>
-20-2-26 - Solved some problems on Edabit platform.
+20-2-26 - Solved some problems on Edabit platform.<br>
+24-2-26 - Solved some pratice problems for mock test.
