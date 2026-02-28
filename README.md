@@ -42,4 +42,5 @@
 19-2-26 - Learned Abstract Factory, Observer Design Pattern.<br>
 20-2-26 - Solved some problems on Edabit platform.<br>
 24-2-26 - Solved some pratice problems for mock test.<br>
-25-2-26 - Practiced Stream API in Java.
+25-2-26 - Practiced Stream API in Java.<br>
+27-2-26 - Learned Comparable and Comparator. 
